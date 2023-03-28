@@ -1,4 +1,4 @@
-# :green_circle: Stage 03 - Challenge Mobile First - Versão Desktop . :sunflower:
+# :green_circle: Stage 03 - Challenge Mobile First - Versão Desktop.:sunflower:
 ### **Desafio da Rocketseat para fazer a versão desktop do desafio Mobile First.**
 
 <p align="center">
